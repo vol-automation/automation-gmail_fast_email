@@ -39,7 +39,7 @@ This application requires the following software components:
 - See the prerequisites above and clone the repo inside a folder.
 
 ```sh
-git clone https://github.com/vol-automation/webscraping-gmail_fast_email.git
+git clone https://github.com/vol-automation/automation-gmail_fast_email.git
 ```
 
 ## Usage
